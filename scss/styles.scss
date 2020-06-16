@@ -1,5 +1,7 @@
 body{
     font-family: "Lato" !important;
+    max-width: 100vw;
+    background-color: rebeccapurple;
 }
 @import "components/stripes";
 @import "components/colors&animation";
